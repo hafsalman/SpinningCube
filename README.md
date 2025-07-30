@@ -10,3 +10,12 @@ This project demonstrates a **spinning 3D cube** using [Three.js](https://threej
 - `BoxGeometry` and `MeshBasicMaterial`  
 - Animation using `requestAnimationFrame`  
 - Responsive canvas
+
+---
+
+## ⚙️ How To Run
+
+1. Open Terminal on VS Code
+2. Make sure you are in "Cube" Folder (if not, type 'cd Cube')
+3. Type 'npm run dev' and press enter
+4. Follow the link to see the spinning cube
