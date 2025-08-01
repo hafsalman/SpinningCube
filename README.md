@@ -16,7 +16,8 @@ This project demonstrates a **spinning 3D cube** using [Three.js](https://threej
 ## ⚙️ How To Run
 
 1. Open Terminal on VS Code
-2. Make sure you are in "Cube" Folder (if not, type 'cd Cube')
-3. type "npm install three"
-4. Type 'npm run dev' and press enter
-5. Follow the link to see the spinning cube
+2. git clone https://github.com/hafsalman/SpinningCube
+3. cd Cube
+4. Type "npm install three"
+5. Type 'npm run dev' and press enter
+6. Follow the link to see the spinning cube
